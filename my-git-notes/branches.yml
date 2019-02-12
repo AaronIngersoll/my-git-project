@@ -1,0 +1,8 @@
+COMMANDS:
+`git checkout -b branchName` Create new branch
+`git branch` Check what branch you’re on
+`git checkout branchName` switch to a different branch
+TO MERGE:
+switch to master
+type `git merge branchName`
+Then push to master
